@@ -1,4 +1,4 @@
-# chuck-norris-please
+# [chuck-norris-please](https://github.com/UniBreakfast/chuck-norris-please)
 
 A Chuck Norris API client done in collaboration with a student.
 
